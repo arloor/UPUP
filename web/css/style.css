@@ -1,0 +1,67 @@
+div.index{
+    margin: 0px 0px;
+    padding: 0px;
+}
+
+div.sidebar{
+    background-color: #9d9d9d;
+    padding-top: 20px;
+    font-family: "Adobe 楷体 Std R";
+}
+div.img-container{
+    width:70%;
+    margin: auto;
+}
+
+
+
+div.mulu ul,div.frendlinks ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+div.mulu a{
+    color: inherit;
+    display: block;
+    line-height: 180%;
+    font-size: 20px;
+    text-align: center;
+}
+
+div.frendlinks a{
+    color: inherit;
+    display: block;
+    line-height: 170%;
+    font-size: 18px;
+    text-align: center;
+}
+
+div.content-body{
+//background-color: #b9def0;
+//background-image: url("image/circles-and-roundabouts.png.png");
+    padding-top: 10px;
+    font-family: Merriweather, Georgia, serif;
+    line-height: 2;
+    font-size: 16px;
+
+}
+
+
+body{
+    //background-image: url("image/circles-and-roundabouts.png.png");
+    background-color: #e5e5e5;
+}
+
+body.loginbody{
+    background-image: url("../image/circles-and-roundabouts.png.png");
+}
+
+a.post{
+    color: #0f0f0f;
+}
+
+div.postshuxing{
+    background-color:white ;
+}
+
